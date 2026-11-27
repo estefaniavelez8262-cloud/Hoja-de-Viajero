@@ -1,0 +1,6 @@
+{
+  "name": "Hoja de Viajero de Producción",
+  "description": "Réplica fiel e interactiva en HTML y Tailwind CSS de la Hoja de Viajero de Producción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
